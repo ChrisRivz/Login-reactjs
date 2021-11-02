@@ -1,0 +1,32 @@
+.container-index{
+    margin-top: 5rem;
+    padding-bottom: 10rem;
+}
+.label-small{
+    font-size: smaller;
+}
+.list-group-item{
+    margin-bottom: 1rem !important;
+}
+.card-users{
+    padding-bottom: 1rem !important;
+}
+.card, .list-group-item{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    cursor: pointer;
+}
+.card-users-section:hover, .list-group-item:hover{
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+.card-img{
+    width: 55% !important;
+    margin: 0 auto !important;
+    border-radius: 58px !important;
+    margin-top: 1rem !important;
+}
+.btn-group{
+    border-color: #E63976 !important;
+    background-color: #E63976 !important;
+    border-radius: 25px;
+}

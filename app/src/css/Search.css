@@ -1,0 +1,15 @@
+.input-search{
+    width: 100%;
+    padding: 12px;
+    border-radius: 25px;
+    border: unset;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-bottom: 2rem;
+}
+.input-search:focus, .input-search:focus-visible{
+    outline: none;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.container-search{
+    margin-top: 1rem;
+}

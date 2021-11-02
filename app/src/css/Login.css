@@ -1,0 +1,63 @@
+
+.body-login{
+    background-color: whitesmoke;
+}
+.container-login{
+    margin-top: 5rem;
+    padding-bottom: 10rem;
+}
+.card-login{
+
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    padding-bottom: 5rem;
+}
+.card-login h2{
+    font-weight: 100;
+    letter-spacing: 10px;
+}
+.card-login p{
+    color: #E63976 !important;
+    font-size: smaller;
+    letter-spacing: 1px;
+}
+.card-body-login{
+    text-align: center;
+}
+.simple-field {
+    width: 100%;
+    border: 1px #e6e6e6 solid;
+    font-size: 13px;
+    line-height: 43px;
+    color: #313131;
+    height: 45px;
+    padding: 0 20px;
+    font-weight: 400;
+}
+
+input.simple-field:hover, textarea.simple-field:hover, input.simple-field:focus, textarea.simple-field:focus {
+    background: #f7f7f7;
+    border-bottom-color: #E63976;
+}
+input:focus, select:focus, textarea:focus, button:focus {
+    outline: none;
+    box-shadow: unset !important;
+    border: 1px solid #ced4da !important;
+    border-bottom-color: #E63976;
+}
+.btn-login{
+
+    width: 100%;
+    background-color: #E63976 !important;
+    border-color: #E63976 !important;
+
+}
+.label-mandatory{
+    color: red;
+    font-weight: bold;
+    font-size: smaller;
+}
+.btn-login:hover{
+    background-color: #f7f7f7 !important;
+    border-color: #f7f7f7 !important;
+    color: black !important
+}

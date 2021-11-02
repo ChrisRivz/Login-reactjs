@@ -1,0 +1,12 @@
+.dark, .dark .card-users-section, .dark .List-users{
+    background-color: #252525 !important;
+}
+.dark h2,.dark h4, .dark p{
+    color: #fff;
+}
+.dark label, .dark .card-users-section .card-title{
+    color: #fff;
+}
+.card-login-dark{
+    border-color:  #252525 !important;
+}

@@ -1,0 +1,19 @@
+.link-name{
+    color: #E63976 !important;
+}
+.navbar-header{
+    background-color: #1a1a25 !important;
+}
+.navbar-text{
+    color: #fff !important;
+}
+.navbar-text a{
+    color: #E63976 !important;
+}
+.Logout-label{
+    float: right;
+    cursor: pointer;
+}
+.Logout-label:hover{
+    color: #E63976 !important; 
+}
